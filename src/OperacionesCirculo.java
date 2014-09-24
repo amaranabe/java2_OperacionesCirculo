@@ -11,7 +11,7 @@ public class Main {
 
 	public static void main (String args[]) {
 
-		float radio, resultadoArea, resultadoCircunferencia;
+		double radio, resultadoArea, resultadoCircunferencia;
 		Circulo operaciones = new Circulo();
 		
 		Scanner sc = new Scanner(System.in);
