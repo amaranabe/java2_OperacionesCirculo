@@ -3,11 +3,8 @@ import java.util.Scanner;
 /*
  *Programa para conocer el area y la circunferencia de un circulo.
  */
-<<<<<<< HEAD
+
 public class OperacionesCirculo {
-=======
-public class Main {
->>>>>>> 18172137965d5792868d90d6ed9979c590569871
 
 	public static void main (String args[]) {
 
@@ -28,8 +25,5 @@ public class Main {
 	
 		System.out.println("\n\nEGUN ONA IZAN!!\n");
 	}
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 18172137965d5792868d90d6ed9979c590569871
