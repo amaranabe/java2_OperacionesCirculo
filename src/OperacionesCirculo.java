@@ -9,10 +9,11 @@ public class OperacionesCirculo {
 	public static void main (String args[]) {
 
 		double radio, resultadoArea, resultadoCircunferencia;
+		
 		Circulo operaciones = new Circulo();
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.print("\ncual es el radio: ");
+		System.out.print("\n¿Cuál es el radio?: ");
 		radio = sc.nextInt();
 
 		
